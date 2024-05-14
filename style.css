@@ -1,0 +1,16 @@
+.light{
+    background-color: #FFF4E7 ;
+}
+
+.box{
+    box-shadow: 5px 5px 8px 0.1px ;
+}
+
+.box:hover{
+    background-color: lightgray
+}
+
+.justify{
+    width: 100%;
+    justify-content: space-between;
+}
